@@ -1,0 +1,17 @@
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+venv/
+.venv/
+
+# Project artifacts
+result/
+super_taco/
+outputs/
+.trae/
+
+# MacOS
+.Trash/
+.Spotlight-V100/
+.fseventsd/
